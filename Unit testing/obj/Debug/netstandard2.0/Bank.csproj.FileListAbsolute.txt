@@ -1,0 +1,9 @@
+C:\Users\kevin\source\repos\Unit testing\Unit testing\obj\Debug\netstandard2.0\Bank.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Unit testing\Unit testing\obj\Debug\netstandard2.0\Bank.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Unit testing\Unit testing\obj\Debug\netstandard2.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Unit testing\Unit testing\bin\Debug\netstandard2.0\Bank.deps.json
+C:\Users\kevin\source\repos\Unit testing\Unit testing\bin\Debug\netstandard2.0\Bank.dll
+C:\Users\kevin\source\repos\Unit testing\Unit testing\bin\Debug\netstandard2.0\Bank.pdb
+C:\Users\kevin\source\repos\Unit testing\Unit testing\obj\Debug\netstandard2.0\Bank.dll
+C:\Users\kevin\source\repos\Unit testing\Unit testing\obj\Debug\netstandard2.0\Bank.pdb
+C:\Users\kevin\source\repos\Unit testing\Unit testing\obj\Debug\netstandard2.0\Bank.csprojAssemblyReference.cache

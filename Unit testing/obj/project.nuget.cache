@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+o7I9p+ags9qcAv8HDqn1kMviI8PKDZzPYsK+k2fNcx9fMdFTtwqq/pFf3SaAAz1kTyRYETmOXD6/fI3uLvuJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\source\\repos\\Unit testing\\Unit testing\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
